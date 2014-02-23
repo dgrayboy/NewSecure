@@ -1,0 +1,173 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NewSecurePrologue.master.cs" Inherits="NewSecure.NewSecurePrologue" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+		<title>NewSecure</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600" rel="stylesheet" type="text/css" />
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+		<!-- Header -->
+			<div id="header" class="skel-panels-fixed">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<span class="image avatar48"><img src="images/dp.jpg" alt="" /></span>
+							<h1 id="title">Anon User</h1>
+							<span class="byline">New User</span>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#today" id="today-link" class="skel-panels-ignoreHref"><span class="fa fa-th">Today</span></a></li>
+								<li><a href="#network" id="network-link" class="skel-panels-ignoreHref"><span class="fa fa-th">Network</span></a></li>
+                                <li><a href="#mobile" id="mobile-link" class="skel-panels-ignoreHref"><span class="fa fa-th">Mobile</span></a></li>
+								<li><a href="#desktop" id="desktop-link" class="skel-panels-ignoreHref"><span class="fa fa-th">Desktop</span></a></li>
+								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="fa fa-envelope">Contact</span></a></li>
+							</ul>
+						</nav>
+						
+				</div>
+				</asp:ContentPlaceHolder>
+			
+			</div>
+
+		<!-- Main -->
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+			<div id="main">
+			
+				<!-- Today -->
+					<section id="today" class="one">
+						<div class="container">
+
+							<header>
+								<h2 class="alt">Today's Tweets:</h2>
+							</header>
+							
+							<footer>
+								<a href="#network" class="button scrolly">Continue to Network</a>
+							</footer>
+
+						</div>
+					</section>
+
+				<!-- Network -->
+					<section id="network" class="two">
+						<div class="container">
+					
+							<header>
+								<h2>Network</h2>
+							</header>
+							
+							<p>For Network</p>
+
+                            <footer>
+								<a href="#mobile" class="button scrolly">Continue to Mobile</a>
+							</footer>
+						</div>
+					</section>
+
+                <!-- Mobile -->
+					<section id="mobile" class="three">
+						<div class="container">
+					
+							<header>
+								<h2>Mobile</h2>
+							</header>
+							
+							<p>For Mobile</p>
+
+                            <footer>
+								<a href="#desktop" class="button scrolly">Continue to Desktop</a>
+							</footer>
+						</div>
+					</section>
+
+				<!-- Desktop -->
+					<section id="desktop" class="four">
+						<div class="container">
+
+							<header>
+								<h2>Desktop</h2>
+							</header>
+
+							<p>For Desktop</p>
+
+						</div>
+					</section>
+			
+				<!-- Contact -->
+					<section id="contact" class="five">
+						<div class="container">
+
+							<header>
+								<h2>Contact</h2>
+							</header>
+
+							<p>Elementum sem parturient nulla quam placerat viverra 
+							mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia 
+							donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc 
+							orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
+							
+							<form method="post" action="#">
+								<div class="row half">
+									<div class="6u"><input type="text" class="text" name="name" placeholder="Name" /></div>
+									<div class="6u"><input type="text" class="text" name="email" placeholder="Email" /></div>
+								</div>
+								<div class="row half">
+									<div class="12u">
+										<textarea name="message" placeholder="Message"></textarea>
+									</div>
+								</div>
+								<div class="row">
+									<div class="12u">
+										<a href="#" class="button submit">Send Message</a>
+									</div>
+								</div>
+							</form>
+
+						</div>
+					</section>
+			
+			</div>
+            </asp:ContentPlaceHolder>
+		<!-- Footer -->
+			<div id="footer">
+				
+				<!-- Copyright -->
+					<div class="copyright">
+						<p>&copy; 2014 NewSecure. All rights reserved.</p>
+						<ul class="menu">
+							<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</div>
+				
+			</div>
+
+    </form>
+</body>
+</html>

@@ -1,0 +1,615 @@
+c:\users\neo kai xiang\documents\visual studio 2010\Projects\NewSecure\NewSecure\bin\NewSecure.dll
+c:\users\neo kai xiang\documents\visual studio 2010\Projects\NewSecure\NewSecure\bin\NewSecure.pdb
+c:\users\neo kai xiang\documents\visual studio 2010\Projects\NewSecure\NewSecure\obj\Debug\ResolveAssemblyReference.cache
+c:\users\neo kai xiang\documents\visual studio 2010\Projects\NewSecure\NewSecure\obj\Debug\NewSecure.dll
+c:\users\neo kai xiang\documents\visual studio 2010\Projects\NewSecure\NewSecure\obj\Debug\NewSecure.pdb
+c:\users\neo kai xiang\documents\visual studio 2010\Projects\NewSecure\NewSecure\bin\LinqToTwitter.dll
+c:\users\neo kai xiang\documents\visual studio 2010\Projects\NewSecure\NewSecure\bin\Newtonsoft.Json.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\HtmlAgilityPack.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\AjaxMin.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\Microsoft.Data.OData.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\Microsoft.Data.Edm.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\System.Spatial.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\AjaxControlToolkit.pdb
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\Microsoft.Data.OData.xml
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\Microsoft.Data.Edm.xml
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\System.Spatial.xml
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\de\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\es\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\fr\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\it\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ja\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ko\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\ru\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Documents\Visual Studio 2010\Projects\NewSecure\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\NewSecure.dll.config
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\NewSecure.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\NewSecure.pdb
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\HtmlAgilityPack.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\AjaxMin.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\Microsoft.Data.OData.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\Microsoft.Data.Edm.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\System.Spatial.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\AjaxControlToolkit.pdb
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\Microsoft.Data.OData.xml
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\Microsoft.Data.Edm.xml
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\System.Spatial.xml
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\de\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\es\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\fr\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\it\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ja\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ko\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\ru\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\ASUS\Desktop\NewSecure\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\HtmlAgilityPack.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\AjaxMin.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\Microsoft.Data.OData.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\Microsoft.Data.Edm.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\System.Spatial.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\AjaxControlToolkit.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\Microsoft.Data.OData.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\Microsoft.Data.Edm.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\System.Spatial.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\de\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\es\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\fr\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\it\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ja\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ko\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\ru\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\HtmlAgilityPack.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\AjaxMin.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\Microsoft.Data.OData.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\Microsoft.Data.Edm.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\System.Spatial.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\AjaxControlToolkit.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\Microsoft.Data.OData.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\Microsoft.Data.Edm.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\System.Spatial.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\de\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\es\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\fr\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\it\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ja\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ko\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\ru\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Copy\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\HtmlAgilityPack.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\AjaxMin.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\Microsoft.Data.OData.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\Microsoft.Data.Edm.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\System.Spatial.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\AjaxControlToolkit.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\Microsoft.Data.OData.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\Microsoft.Data.Edm.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\System.Spatial.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\de\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\es\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\fr\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\it\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ja\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ko\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\ru\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\HtmlAgilityPack.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\AjaxMin.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.OData.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.Edm.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\System.Spatial.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\AjaxControlToolkit.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.OData.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.Edm.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\System.Spatial.xml
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\de\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\es\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\fr\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\it\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ja\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ko\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\ru\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\HtmlAgilityPack.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\AjaxMin.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.OData.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.Edm.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\System.Spatial.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\AjaxControlToolkit.pdb
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.OData.xml
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.Edm.xml
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\System.Spatial.xml
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\de\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\es\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\fr\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\it\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ja\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ko\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\ru\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+F:\NewSecure - Prologue ASP\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\HtmlAgilityPack.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\AjaxMin.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.OData.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.Edm.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\System.Spatial.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\AjaxControlToolkit.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.OData.xml
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.Edm.xml
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\System.Spatial.xml
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\de\System.Spatial.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\es\System.Spatial.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\fr\System.Spatial.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\it\System.Spatial.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ja\System.Spatial.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ko\System.Spatial.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ru\System.Spatial.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (13-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.WindowsAzure.Storage.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\HtmlAgilityPack.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\AjaxMin.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.OData.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.Edm.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\System.Spatial.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\AjaxControlToolkit.pdb
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.WindowsAzure.Storage.xml
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.OData.xml
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Microsoft.Data.Edm.xml
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\System.Spatial.xml
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ar\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\cs\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\de\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\es\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\fr\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\he\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\hi\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\it\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ja\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ko\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\nl\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\pl\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\pt\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ru\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\tr-TR\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-CHS\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-CHT\AjaxControlToolkit.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\de\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\es\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\fr\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\it\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ja\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ko\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ru\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\de\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\es\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\it\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\de\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\es\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\fr\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\it\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ja\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ko\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\ru\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hans\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\zh-Hant\System.Spatial.resources.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+F:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+G:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+G:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+G:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+G:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+G:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+G:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+G:\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (14-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+F:\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+F:\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+F:\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+F:\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+F:\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+F:\NewSecure - Prologue ASP Don (17-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\student\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (20-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (21-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (21-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (21-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (21-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (21-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP Don (22-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (23-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll.config
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (23-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (23-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (23-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (23-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (23-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\ASUS\Desktop\NewSecure - Prologue ASP Don (23-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP KX (23-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP KX (23-02-2014)\NewSecure - Prologue ASP\NewSecure\bin\NewSecure.pdb
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP KX (23-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.csprojResolveAssemblyReference.cache
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP KX (23-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.dll
+C:\Users\Neo Kai Xiang\Desktop\NewSecure - Prologue ASP KX (23-02-2014)\NewSecure - Prologue ASP\NewSecure\obj\Debug\NewSecure.pdb
